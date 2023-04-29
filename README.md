@@ -6,4 +6,4 @@ To build the model, we first performed exploratory data analysis (EDA) to unders
 The resulting model achieved an R2 Score of  0.988, indicating that it performs well at estimating fish weights based on their measurements. This project demonstrates the power of linear regression for predicting continuous outcomes and provides insight into the factors that influence fish weight.
 
 Dataset
-The dataset used for this project can be found at [https://www.kaggle.com/datasets/aungpyaeap/fish-market](Fish Market). It includes measurements of several fish species, including their length, height, width, and weight. The data is provided in a CSV format and is ready for analysis in Python or other data analysis tools.
+The dataset used for this project can be found at [https://www.kaggle.com/datasets/aungpyaeap/fish-market](Fish_Market). It includes measurements of several fish species, including their length, height, width, and weight. The data is provided in a CSV format and is ready for analysis in Python or other data analysis tools.
